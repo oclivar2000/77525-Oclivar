@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Teclado mecánico",
+    "description": "Teclado con switches rojos",
+    "price": 80,
+    "thumbnail": "/images/keyboard.jpg",
+    "code": "KB100",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Mouse gamer",
+    "description": "Mouse con DPI ajustable",
+    "price": 50,
+    "thumbnail": "/images/mouse.jpg",
+    "code": "MG200",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "products": []
+  },
+  {
+    "id": 3,
+    "title": "Smartphone Android",
+    "description": "Smartphone con pantalla de 6.5 pulgadas",
+    "price": 300,
+    "thumbnail": "/images/smartphone.jpg",
+    "code": "SP1000",
+    "stock": 8
+  }
+]
